@@ -9,6 +9,8 @@ Learning a new thing every day and creating things I'll get there 🤩
 If you have time what about take a look at my new projects
 and give me some feedback? I would really appreciate 🤖
 
+Rigth now I'm studying React to implement in my [fullstack project](https://github.com/CCerrer/Cafe-Tracker)
+
 ---
 
 [twitter](https://twitter.com/naotomorefri)
