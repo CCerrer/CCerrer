@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hello world, 
+
+my name is Ferrer,
+computer science student and future billionaire.
+
+I'm currently stuying to be a fullstack developer. 
+Learning a new thing every day and creating things I'll get there 🤩 
+
+If you have time what about take a look at my new projects
+and give me some feedback? I would really appreciate 🤖
+
+---
+
+[twitter](https://twitter.com/naotomorefri)
+
+[linkedin](https://www.linkedin.com/in/enricoferrer/)
+
+email: mathferrer17ea@gmail.com
+
 
 <!--
 **CCerrer/CCerrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
