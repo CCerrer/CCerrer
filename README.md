@@ -13,11 +13,7 @@ Right now I'm studying React to implement in my [fullstack project](https://gith
 
 ---
 
-⭐ mathferrer17ea@gmail.com
-
-[twitter](https://twitter.com/naotomorefri)
-
-[linkedin](https://www.linkedin.com/in/enricoferrer/)
+⭐ mathferrer17ea@gmail.com | [twitter](https://twitter.com/naotomorefri) | [linkedin](https://www.linkedin.com/in/enricoferrer/)
 
 
 <!--
