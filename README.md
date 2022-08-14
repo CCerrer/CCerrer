@@ -1,6 +1,6 @@
-### Hello world, 
+### Hello world!
 
-my name is Ferrer,
+My name is Ferrer,
 computer science student and future billionaire.
 
 I'm currently stuying to be a fullstack developer. 
