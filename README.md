@@ -4,7 +4,7 @@ My name is Ferrer,
 computer science student and future billionaire.
 
 I'm currently stuying to be a fullstack developer. 
-Learning a new thing every day and creating things I'll get there 🤩 
+By learning a new thing every day and creating things I'll get there 🤩 
 
 If you have time what about take a look at my new projects
 and give me some feedback? I would really appreciate 🤖
