@@ -1,15 +1,13 @@
 ### Hello world!
 
-My name is Ferrer,
-computer science student and future billionaire.
+My name is Ferrer. I'm a
+computer science student and future millionaire.
 
-I'm currently stuying to be a fullstack developer. 
-By learning a new thing every day and creating things I'll get there 🤩 
+Currently stuying to be a data scientist. 
+By learning and creating new things every day I'll get there 🤩 
 
- I would really appreciate it if you take a look at my new projects
-and give some feedback? 🤖
-
-Right now I'm studying React to implement in my [fullstack project](https://github.com/CCerrer/Cafe-Tracker)
+I would really appreciate it if you take a look at my projects
+and give some feedback. 🤖
 
 ---
 
