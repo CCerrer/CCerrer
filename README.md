@@ -1,17 +1,14 @@
 ### Hello world!
 
 My name is Ferrer. I'm a
-computer science student and future millionaire.
-
-Currently stuying to be a data scientist. 
-By learning and creating new things every day I'll get there 🤩 
+software engineer student and future millionaire.
 
 I would really appreciate it if you take a look at my projects
 and give some feedback. 🤖
 
 ---
 
-⭐ mathferrer17ea@gmail.com | [twitter](https://twitter.com/naotomorefri) | [linkedin](https://www.linkedin.com/in/enricoferrer/)
+⭐ mathferrer17ea@gmail.com | [linkedin](https://www.linkedin.com/in/enricoferrer/)
 
 
 <!--
